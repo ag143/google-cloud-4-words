@@ -1,0 +1,271 @@
+Compute,App Engine,Managed app platform
+Compute,Bare Metal Solution,Hardware for specialized workloads
+Compute,Batch,Managed batch service
+Compute,Blockchain Node Engine,Fully managed blockchain nodes
+Compute,Cloud FunctionsEvent-driven serverless functions
+Compute,Cloud RunServerless for containerized applications
+Compute,Compute EngineVMs, GPUs, TPUs, Disks
+Compute,GKE,Managed Kubernetes / containers
+Compute,Preemptible VMs,Short-lived compute instances
+Compute,Shielded VMsHardened VMs
+Compute,Sole-tenant Nodes,Dedicated physical servers
+Compute,VMware Engine,VMware as a service
+Storage,Backup and DR, ServiceBackup and DR SaaS
+Storage,Cloud Filestore,Managed NFS server
+Storage,Cloud Storage,Multi-class multi-region object storage
+Storage,Local SSD,VM locally attached SSDs
+Storage,Persistent Disk,Block storage for VMs
+Database,Analytics Hub,Data exchange platform
+Database,BigLake,Unify your data warehouses
+Database,BigQuery,Data warehouse/analytics
+Database,BigQuery BI Engine,In-memory analytics engine
+Database,BigQuery DTS,Automated data ingestion service
+Database,BigQuery GIS,BigQuery geospatial functions/support
+Database,BigQuery ML,BigQuery model training/serving
+Database,Cloud Composer,Managed workflow orchestration service
+Database,Cloud Data Fusion,Graphically manage data pipelines
+Database,Connected Sheets,Spreadsheet interface for (big) data
+Database,Data Catalog,Metadata management service
+Database,Dataflow,Stream/batch data processing
+Database,Dataform,ELT preparation tool
+Database,Dataplex,Centrally manage/monitor/govern data
+Database,Dataprep by Trifacta,Visual data wrangling
+Database,Dataproc,Managed Spark and Hadoop
+Database,Datastream,Change data capture/replication service
+Database,Looker,Enterprise BI and Analytics
+Database,Looker Studio,Collaborative data exploration/dashboarding
+Database,Pub/Sub,Global real-time messaging
+Database,Public Datasets,Hosted data in BigQuery
+AI_ML,AutoML,Custom low-code models
+AI_ML,Cloud TPU,Hardware acceleration for ML
+AI_ML,Cloud Translation,Language detection and translation
+AI_ML,Cloud Vision,Image recognition and classification
+AI_ML,Contact Center AI,AI in your contact center
+AI_ML,Deep Learning Containers,Preconfigured containers for deep learning
+AI_ML,Deep Learning VM Images,Preconfigured VMs for deep learning
+AI_ML,Dialogflow,Create conversational interfaces
+AI_ML,Document AI,Analyze; classify; search documents
+AI_ML,Speech-To-Text,Convert audio to text
+AI_ML,Talent Solutions,Job search with ML
+AI_ML,Text-To-Speech,Convert text to audio
+AI_ML,Vertex AI,Managed platform for ML
+AI_ML,Vertex AI Data Labeling,Data labeling by humans
+AI_ML,Vertex AI Edge Manager,Deploy monitor edge inferences
+AI_ML,Vertex AI Feature Store,Managed ML feature repository
+AI_ML,Vertex AI Matching Engine,Vector similarity searches
+AI_ML,Vertex AI Model Monitoring,Monitor models for skew/drift
+AI_ML,Vertex AI Pipelines,Hosted ML workflows
+AI_ML,Vertex AI Predictions,Autoscaled model serving
+AI_ML,Vertex AI Tensorboard,Managed TensorBoard for ML-experiment Visualization
+AI_ML,Vertex AI Training,Distributed AI training
+AI_ML,Vertex AI Vizier,Automated hyperparameter tuning
+AI_ML,Vertex AI Workbench,Jupyter-based environment for Data Science
+AI_ML,Vertex Explainable AI,Understand ML model predictions
+AI_ML,Vertex ML Metadata,Artifact; lineage; and execution tracking
+AI_ML,Video Intelligence APIScene-level video annotation
+Networking,Anthos Service MeshService-aware network management
+Networking,AutoscalerMulti-region load distribution/balancing
+Networking,Backend ServiceMulti-region load distribution/balancing
+Networking,Carrier PeeringPeer through a carrier
+Networking,Cloud ArmorDDoS protection and WAF
+Networking,Cloud CDNContent delivery network
+Networking,Cloud DNSProgrammable DNS serving
+Networking,Cloud DomainsRegister, transfer, manager domains
+Networking,Cloud IDSDetects Network based threats
+Networking,Cloud Load BalancingMulti-region load distribution/balancing
+Networking,Cloud NATNetwork address translation service
+Networking,Cloud RouterVPC/on-prem network route exchange (BGP)
+Networking,Cloud VPNVirtual private network connection
+Networking,Cross-Cloud InterconnectDedicated high-bandwidth multicloud connection
+Networking,Cross-Cloud InterconnectDedicated high-bandwidth multicloud connection
+Networking,Dedicated InterconnectDedicated private network connection
+Networking,Direct PeeringPeer with Google Cloud
+Networking,External HTTP Load BalancerMulti-region load distribution/balancing
+Networking,External TCP Load BalancerMulti-region load distribution/balancing
+Networking,Internal HTTP Load BalancerMulti-region load distribution/balancing
+Networking,Internal TCP Load BalancerMulti-region load distribution/balancing
+Networking,Managed Instance GroupMulti-region load distribution/balancing
+Networking,Media CDNCDN for streaming & videos
+Networking,Network Connectivity CenterConnect VPC & On-prem
+Networking,Network Intelligence CenterNetwork monitoring and topology
+Networking,Network Service TiersPrice vs performance tiering
+Networking,Network TelemetryNetwork telemetry service
+Networking,Packet MirroringMonitor/analyze instance traffic
+Networking,Partner InterconnectConnect on-prem network to VPC
+Networking,Private Service ConnectPrivately connect services across VPCs
+Networking,Service DirectoryCentrally publish/discover/connect services
+Networking,SubnetSubnetwork
+Networking,Traffic DirectorService mesh traffic management
+Networking,Transcoder APIOptimized files for delivery
+Networking,VPC Service ControlsSecurity perimeters for API-based services
+Networking,Virtual Private CloudSoftware defined networking
+DevOps CI/CD,Artifact RegistryUniversal package manager
+DevOps CI/CD,Cloud BuildDevOps Automation Platform
+DevOps CI/CD,Cloud DeployContinuous Delivery for GKE
+DevOps CI/CD,Cloud Source RepositoriesHosted private git repos
+DevOps CI/CD,Container AnalysisAutomated security scanning
+DevOps CI/CD,Container RegistryPrivate container registry/storage
+Identity and Security,Access Context ManagerFine-grained, attribute based access-control
+Identity and Security,Access TransparencyAudit cloud provider access
+Identity and Security,Assured WorkloadsWorkload compliance controls
+Identity and Security,BeyondCorp EnterpriseZero trust secure access
+Identity and Security,Binary AuthorizationKubernetes deploy-time security
+Identity and Security,Certificate Authority ServiceManaged private CAs
+Identity and Security,ChronicleFind threats from security telemetry
+Identity and Security,Cloud Asset InventoryAll assets, one place
+Identity and Security,Cloud Audit LogsAudit trails
+Identity and Security,Cloud Data Loss PreventionClassify and redact sensitive data
+Identity and Security,Cloud EKMExternal keys you control/manage
+Identity and Security,Cloud HSMHardware security module service
+Identity and Security,Cloud IAMResource access control
+Identity and Security,Cloud IdentityManage users, devices & apps
+Identity and Security,Cloud Identity-Aware ProxyIdentity-based app access
+Identity and Security,Cloud KMSHosted key management service
+Identity and Security,Confidential ComputingEncrypt data in-use
+Identity and Security,Context-aware AccessEnd-user attribute-based access control
+Identity and Security,Event Threat DetectionScans for suspicious activity
+Identity and Security,Identity PlatformDrop-in Authentication, Access-Management
+Identity and Security,Managed Service for Microsoft Active DirectoryManaged Microsoft Active Directory
+Identity and Security,Resource ManagerCloud project metadata management
+Identity and Security,Risk ManagerEvaluate organization’s security posture
+Identity and Security,Secret ManagerStore and manage secrets
+Identity and Security,Security Command CenterSecurity management and data risk platform
+Identity and Security,Security Key EnforcementTwo-step key verification
+Identity and Security,Shielded VMsHardened VMs
+Identity and Security,Software Delivery ShieldSecure software supply chain
+Identity and Security,Titan Security KeyTwo-factor authentication (2FA) device
+Identity and Security,VPC Service ControlsVPC data constraints
+Identity and Security,VirusTotalResearch/hunt for malware
+Identity and Security,Web Security ScannerApp engine security scanner
+Identity and Security,Web Security ScannerIdentifies web-app security vulnerabilities
+Identity and Security,reCAPTCHA EnterpriseProtect website against bots
+Management Tools,Cloud APIsAPIs for cloud services
+Management Tools,Cloud BillingBilling and cost management tools
+Management Tools,Cloud Billing APIProgrammatically manage Google Cloud billing
+Management Tools,Cloud ConsoleWeb-based management console
+Management Tools,Cloud Deployment ManagerTemplated infrastructure deployment
+Management Tools,Cloud Mobile AppiOS/Android Google Cloud manager app
+Management Tools,Private CatalogInternal Solutions Catalog
+Management Tools,VM ManagerManage OS VM Fleets
+Integration Services,Application IntegrationEnterprise application integrations
+Integration Services,Cloud SchedulerManaged cron job service
+Integration Services,Cloud TasksAsynchronous task execution
+Integration Services,EventarcEvent-driven Cloud Run services
+Integration Services,Integration ConnectorsEnterprise application connectivity
+Integration Services,Pub/SubGlobal real-time messaging
+Integration Services,WorkflowsHTTP services orchestration
+Gaming,Google Cloud Game ServersOrchestrate Agones clusters
+Mobile (Firebase),Cloud FirestoreServerless NoSQL document database
+Mobile (Firebase),Cloud Functions for FirebaseEvent-driven serverless applications
+Mobile (Firebase),Cloud Storage for FirebaseObject storage and serving
+Mobile (Firebase),CrashlyticsCrash reporting and analytics
+Mobile (Firebase),FirebaseFirebase
+Mobile (Firebase),Firebase A/B TestingCreate A/B test experiments
+Mobile (Firebase),Firebase App DistributionTrusted tester early access
+Mobile (Firebase),Firebase AuthenticationDrop-in authentication
+Mobile (Firebase),Firebase Cloud MessagingSend device notifications
+Mobile (Firebase),Firebase Dynamic LinksLink to app content
+Mobile (Firebase),Firebase ExtensionsPre-packaged development solutions
+Mobile (Firebase),Firebase HostingWeb hosting with CDN/SSL
+Mobile (Firebase),Firebase In-App MessagingSend in-app contextual messages
+Mobile (Firebase),Firebase Performance MonitoringApp/web performance monitoring
+Mobile (Firebase),Firebase PredictionsPredict user targeting
+Mobile (Firebase),Firebase Realtime DatabaseReal-time data synchronization
+Mobile (Firebase),Firebase Remote ConfigRemotely configure installed apps
+Mobile (Firebase),Firebase Test LabMobile testing device farm
+Mobile (Firebase),Google Analytics for FirebaseMobile app analytics
+Mobile (Firebase),ML Kit for FirebaseML APIs for mobile
+Google Workspace,AMP for EmailDynamic interactive email
+Google Workspace,Admin SDKManage Google Workspace resources
+Google Workspace,Apps ScriptExtend and automate everything
+Google Workspace,Calendar APICreate and manage calendars
+Google Workspace,Classroom APIProvision and manage classrooms
+Google Workspace,Cloud SearchUnified search for enterprise
+Google Workspace,Docs APICreate and edit documents
+Google Workspace,Drive APIRead and write files
+Google Workspace,Drive Activity APIRetrieve Google Drive activity
+Google Workspace,Drive PickerDrive file selection widget
+Google Workspace,Email MarkupInteractive email using schema.org
+Google Workspace,Gmail APIEnhance Gmail
+Google Workspace,Google Chat APIConversational bots in chat
+Google Workspace,Google Workspace Add-onsExtend Google Workspace apps
+Google Workspace,Google Workspace MarketplaceStorefront for integrated applications
+Google Workspace,People APIManage user's Contacts
+Google Workspace,Sheets APIRead and write spreadsheets
+Google Workspace,Slides APICreate and edit presentations
+Google Workspace,Task APISearch, read & update Tasks
+Google Workspace,Vault APIManage your organization's eDiscovery
+Google Maps Platform,Directions APIGet directions between locations
+Google Maps Platform,Distance Matrix APIMulti-origin/destination travel times
+Google Maps Platform,Geocoding APIConvert address to/from coordinates
+Google Maps Platform,Geolocation APIDerive location without GPS
+Google Maps Platform,Maps Embed APIDisplay iframe embedded maps
+Google Maps Platform,Maps JavaScript APIDynamic web maps
+Google Maps Platform,Maps SDK for AndroidMaps for Android apps
+Google Maps Platform,Maps SDK for UnityUnity SDK for games
+Google Maps Platform,Maps SDK for iOSMaps for iOS apps
+Google Maps Platform,Maps Static APIDisplay static map images
+Google Maps Platform,Maps URLsURL scheme for maps
+Google Maps Platform,Places APIRest-based Places features
+Google Maps Platform,Places Library, Maps JS APIPlaces features for web
+Google Maps Platform,Places SDK for AndroidPlaces features for Android
+Google Maps Platform,Places SDK for iOSPlaces feature for iOS
+Google Maps Platform,Roads APIConvert coordinates to roads
+Google Maps Platform,Street View ServiceStreet view for JavaScript
+Google Maps Platform,Street View Static APIStatic street view images
+Google Maps Platform,Time Zone APIConvert coordinates to timezone
+Hybrid and Multi-cloud,AnthosEnterprise hybrid/multi-cloud platform
+Hybrid and Multi-cloud,Anthos ClustersHybrid/on-prem GKE
+Hybrid and Multi-cloud,Anthos Config ManagementPolicy and security automation
+Hybrid and Multi-cloud,Anthos Service MeshManaged service mesh (Istio)
+Hybrid and Multi-cloud,Apigee API ManagementAPI management, development, security
+Hybrid and Multi-cloud,Cloud Run for AnthosServerless development for Anthos
+Hybrid and Multi-cloud,Google Cloud Marketplace for AnthosPre-configured containerized apps
+Hybrid and Multi-cloud,Migrate for AnthosMigrate VMs to Kubernetes Engine
+Hybrid and Multi-cloud,Operations suiteMonitoring, logging, troubleshooting
+Hybrid and Multi-cloud,Traffic DirectorService mesh traffic management
+	
+API Platform and Ecosystems,API AnalyticsAPI metrics
+API Platform and Ecosystems,API GatewayFully managed API Gateway
+API Platform and Ecosystems,API MonetizationMonetize APIs
+API Platform and Ecosystems,Apigee API PlatformDevelop, secure, monitor APIs
+API Platform and Ecosystems,Apigee HybridManage hybrid/multi-cloud API environments
+API Platform and Ecosystems,Apigee SenseAPI protection from attacks
+API Platform and Ecosystems,AppSheetNo-code App creation
+API Platform and Ecosystems,Cloud EndpointsCloud API gateway
+API Platform and Ecosystems,Cloud IoT CoreManage devices, ingest data
+API Platform and Ecosystems,Developer PortalAPI management portal
+API Platform and Ecosystems,Google Cloud MarketplacePartner & open source marketplace
+Healthcare,Apigee Healthcare APIxHealthcare system GCP interoperability
+Healthcare,Cloud Healthcare APIHealthcare system GCP interoperability
+Healthcare,Cloud Life SciencesManage, process, transform biomedical-data
+Healthcare,Healthcare Natural Language AIReal-time insights from media-text
+Operations and Monitoring,Cloud LoggingCentralized logging
+Operations and Monitoring,Cloud MonitoringInfrastructure and application monitoring
+Operations and Monitoring,Cloud ProfilerCPU and heap profiling
+Operations and Monitoring,Cloud TraceApp latency insights
+Operations and Monitoring,Error ReportingApp error reporting
+Operations and Monitoring,ProjectProject
+Developer Tools,App Engine PluginsGradle/Maven App Engine plugin
+Developer Tools,Cloud CodeGoogle Cloud IDE extensions
+Developer Tools,Cloud Code for IntelliJIntelliJ Google Cloud tools
+Developer Tools,Cloud Code for VS CodeVS Code Google Cloud tools
+Developer Tools,Cloud SDKGoogle Cloud CLI
+Developer Tools,Cloud ShellBrowser-based terminal/CLI
+Developer Tools,Cloud Tools for EclipseEclipse GCP tools
+Developer Tools,Cloud Tools for PowerShellDeveloper powershell tools
+Developer Tools,Cloud Tools for Visual StudioVisual Studio Google Cloud tools
+Developer Tools,Cloud WorkstationsDeveloper optimized workstation
+Retail,Recommendations AICreate custom recommendations
+Retail,Vision Product SearchVisual search for products
+Retail,Visual Inspection AITrain/deploy models to detect defects
+Migration to Google Cloud,BigQuery Data Transfer ServiceBulk import analytics data
+Migration to Google Cloud,Cloud Data TransferData migration tools/CLI
+Migration to Google Cloud,Cloud Foundation ToolkitInfrastructure as Code templates
+Migration to Google Cloud,KFCloud Foundry to Kubernetes
+Migration to Google Cloud,Migrate for Anthos and GKEMigrate VMs to GKE
+Migration to Google Cloud,Migrate for Compute EngineCompute Engine migration tools
+Migration to Google Cloud,Migrate from Amazon RedshiftMigrate from Redshift to BigQuery
+Migration to Google Cloud,Migrate from TeradataMigrate from Teradata to BigQuery
+Migration to Google Cloud,Storage Transfer ServiceOnline/on-premises data transfer
+Migration to Google Cloud,Transfer Appliance,Rentable data transport box
