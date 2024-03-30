@@ -118,154 +118,154 @@ Identity and Security,Cloud Data Loss PreventionClassify and redact sensitive da
 Identity and Security,Cloud EKMExternal keys you control/manage
 Identity and Security,Cloud HSMHardware security module service
 Identity and Security,Cloud IAMResource access control
-Identity and Security,Cloud IdentityManage users, devices & apps
-Identity and Security,Cloud Identity-Aware ProxyIdentity-based app access
-Identity and Security,Cloud KMSHosted key management service
-Identity and Security,Confidential ComputingEncrypt data in-use
-Identity and Security,Context-aware AccessEnd-user attribute-based access control
-Identity and Security,Event Threat DetectionScans for suspicious activity
-Identity and Security,Identity PlatformDrop-in Authentication, Access-Management
-Identity and Security,Managed Service for Microsoft Active DirectoryManaged Microsoft Active Directory
-Identity and Security,Resource ManagerCloud project metadata management
-Identity and Security,Risk ManagerEvaluate organization’s security posture
-Identity and Security,Secret ManagerStore and manage secrets
-Identity and Security,Security Command CenterSecurity management and data risk platform
-Identity and Security,Security Key EnforcementTwo-step key verification
-Identity and Security,Shielded VMsHardened VMs
-Identity and Security,Software Delivery ShieldSecure software supply chain
-Identity and Security,Titan Security KeyTwo-factor authentication (2FA) device
-Identity and Security,VPC Service ControlsVPC data constraints
-Identity and Security,VirusTotalResearch/hunt for malware
-Identity and Security,Web Security ScannerApp engine security scanner
-Identity and Security,Web Security ScannerIdentifies web-app security vulnerabilities
-Identity and Security,reCAPTCHA EnterpriseProtect website against bots
-Management Tools,Cloud APIsAPIs for cloud services
-Management Tools,Cloud BillingBilling and cost management tools
-Management Tools,Cloud Billing APIProgrammatically manage Google Cloud billing
-Management Tools,Cloud ConsoleWeb-based management console
-Management Tools,Cloud Deployment ManagerTemplated infrastructure deployment
-Management Tools,Cloud Mobile AppiOS/Android Google Cloud manager app
-Management Tools,Private CatalogInternal Solutions Catalog
-Management Tools,VM ManagerManage OS VM Fleets
-Integration Services,Application IntegrationEnterprise application integrations
-Integration Services,Cloud SchedulerManaged cron job service
-Integration Services,Cloud TasksAsynchronous task execution
-Integration Services,EventarcEvent-driven Cloud Run services
-Integration Services,Integration ConnectorsEnterprise application connectivity
-Integration Services,Pub/SubGlobal real-time messaging
-Integration Services,WorkflowsHTTP services orchestration
-Gaming,Google Cloud Game ServersOrchestrate Agones clusters
-Mobile (Firebase),Cloud FirestoreServerless NoSQL document database
-Mobile (Firebase),Cloud Functions for FirebaseEvent-driven serverless applications
-Mobile (Firebase),Cloud Storage for FirebaseObject storage and serving
-Mobile (Firebase),CrashlyticsCrash reporting and analytics
-Mobile (Firebase),FirebaseFirebase
-Mobile (Firebase),Firebase A/B TestingCreate A/B test experiments
-Mobile (Firebase),Firebase App DistributionTrusted tester early access
-Mobile (Firebase),Firebase AuthenticationDrop-in authentication
-Mobile (Firebase),Firebase Cloud MessagingSend device notifications
-Mobile (Firebase),Firebase Dynamic LinksLink to app content
-Mobile (Firebase),Firebase ExtensionsPre-packaged development solutions
-Mobile (Firebase),Firebase HostingWeb hosting with CDN/SSL
-Mobile (Firebase),Firebase In-App MessagingSend in-app contextual messages
-Mobile (Firebase),Firebase Performance MonitoringApp/web performance monitoring
-Mobile (Firebase),Firebase PredictionsPredict user targeting
-Mobile (Firebase),Firebase Realtime DatabaseReal-time data synchronization
-Mobile (Firebase),Firebase Remote ConfigRemotely configure installed apps
-Mobile (Firebase),Firebase Test LabMobile testing device farm
-Mobile (Firebase),Google Analytics for FirebaseMobile app analytics
-Mobile (Firebase),ML Kit for FirebaseML APIs for mobile
-Google Workspace,AMP for EmailDynamic interactive email
-Google Workspace,Admin SDKManage Google Workspace resources
-Google Workspace,Apps ScriptExtend and automate everything
-Google Workspace,Calendar APICreate and manage calendars
-Google Workspace,Classroom APIProvision and manage classrooms
-Google Workspace,Cloud SearchUnified search for enterprise
-Google Workspace,Docs APICreate and edit documents
-Google Workspace,Drive APIRead and write files
-Google Workspace,Drive Activity APIRetrieve Google Drive activity
-Google Workspace,Drive PickerDrive file selection widget
-Google Workspace,Email MarkupInteractive email using schema.org
-Google Workspace,Gmail APIEnhance Gmail
-Google Workspace,Google Chat APIConversational bots in chat
-Google Workspace,Google Workspace Add-onsExtend Google Workspace apps
-Google Workspace,Google Workspace MarketplaceStorefront for integrated applications
-Google Workspace,People APIManage user's Contacts
-Google Workspace,Sheets APIRead and write spreadsheets
-Google Workspace,Slides APICreate and edit presentations
-Google Workspace,Task APISearch, read & update Tasks
-Google Workspace,Vault APIManage your organization's eDiscovery
-Google Maps Platform,Directions APIGet directions between locations
-Google Maps Platform,Distance Matrix APIMulti-origin/destination travel times
-Google Maps Platform,Geocoding APIConvert address to/from coordinates
-Google Maps Platform,Geolocation APIDerive location without GPS
-Google Maps Platform,Maps Embed APIDisplay iframe embedded maps
-Google Maps Platform,Maps JavaScript APIDynamic web maps
-Google Maps Platform,Maps SDK for AndroidMaps for Android apps
-Google Maps Platform,Maps SDK for UnityUnity SDK for games
-Google Maps Platform,Maps SDK for iOSMaps for iOS apps
-Google Maps Platform,Maps Static APIDisplay static map images
-Google Maps Platform,Maps URLsURL scheme for maps
-Google Maps Platform,Places APIRest-based Places features
+Identity and Security,Cloud Identity,Manage users; devices & apps
+Identity and Security,Cloud Identity-Aware Proxy,Identity-based app access
+Identity and Security,Cloud KMS,Hosted key management service
+Identity and Security,Confidential Computing,Encrypt data in-use
+Identity and Security,Context-aware Access,End-user attribute-based access control
+Identity and Security,Event Threat Detection,Scans for suspicious activity
+Identity and Security,Identity Platform,Drop-in Authentication; Access-Management
+Identity and Security,Managed Service for Microsoft Active Directory,Managed Microsoft Active Directory
+Identity and Security,Resource Manager,Cloud project metadata management
+Identity and Security,Risk Manager,Evaluate organization’s security posture
+Identity and Security,Secret Manager,Store and manage secrets
+Identity and Security,Security Command Center,Security management and data risk platform
+Identity and Security,Security Key Enforcement,Two-step key verification
+Identity and Security,Shielded VMs,Hardened VMs
+Identity and Security,Software Delivery Shield,Secure software supply chain
+Identity and Security,Titan Security Key,Two-factor authentication (2FA) device
+Identity and Security,VPC Service Controls,VPC data constraints
+Identity and Security,VirusTotal,Research/hunt for malware
+Identity and Security,Web Security Scanner,App engine security scanner
+Identity and Security,Web Security Scanner,Identifies web-app security vulnerabilities
+Identity and Security,reCAPTCHA Enterprise,Protect website against bots
+Management Tools,Cloud APIs,APIs for cloud services
+Management Tools,Cloud Billing,Billing and cost management tools
+Management Tools,Cloud Billing API,Programmatically manage Google Cloud billing
+Management Tools,Cloud Console,Web-based management console
+Management Tools,Cloud Deployment Manager,Templated infrastructure deployment
+Management Tools,Cloud Mobile App,iOS/Android Google Cloud manager app
+Management Tools,Private Catalog,Internal Solutions Catalog
+Management Tools,VM Manager,Manage OS VM Fleets
+Integration Services,Application Integration,Enterprise application integrations
+Integration Services,Cloud Scheduler,Managed cron job service
+Integration Services,Cloud Tasks,Asynchronous task execution
+Integration Services,Eventarc,Event-driven Cloud Run services
+Integration Services,Integration Connectors,Enterprise application connectivity
+Integration Services,Pub/Sub,Global real-time messaging
+Integration Services,Workflows,HTTP services orchestration
+Gaming,Google Cloud Game Servers,Orchestrate Agones clusters
+Mobile (Firebase),Cloud Firestore,Serverless NoSQL document database
+Mobile (Firebase),Cloud Functions for Firebas,eEvent-driven serverless applications
+Mobile (Firebase),Cloud Storage for Firebase,Object storage and serving
+Mobile (Firebase),Crashlytics,Crash reporting and analytics
+Mobile (Firebase),Firebase,Firebase
+Mobile (Firebase),Firebase A/B Testing,Create A/B test experiments
+Mobile (Firebase),Firebase App Distribution,Trusted tester early access
+Mobile (Firebase),Firebase Authentication,Drop-in authentication
+Mobile (Firebase),Firebase Cloud Messaging,Send device notifications
+Mobile (Firebase),Firebase Dynamic Links,Link to app content
+Mobile (Firebase),Firebase Extensions,Pre-packaged development solutions
+Mobile (Firebase),Firebase Hosting,Web hosting with CDN/SSL
+Mobile (Firebase),Firebase In-App Messaging,Send in-app contextual messages
+Mobile (Firebase),Firebase Performance Monitoring,App/web performance monitoring
+Mobile (Firebase),Firebase Predictions,Predict user targeting
+Mobile (Firebase),Firebase Realtime Database,Real-time data synchronization
+Mobile (Firebase),Firebase Remote Config,Remotely configure installed apps
+Mobile (Firebase),Firebase Test Lab,Mobile testing device farm
+Mobile (Firebase),Google Analytics for Firebase,Mobile app analytics
+Mobile (Firebase),ML Kit for Firebase,ML APIs for mobile
+Google Workspace,AMP for Email,Dynamic interactive email
+Google Workspace,Admin SDK,Manage Google Workspace resources
+Google Workspace,Apps Script,Extend and automate everything
+Google Workspace,Calendar API,Create and manage calendars
+Google Workspace,Classroom API,Provision and manage classrooms
+Google Workspace,Cloud Search,Unified search for enterprise
+Google Workspace,Docs API,Create and edit documents
+Google Workspace,Drive API,Read and write files
+Google Workspace,Drive Activity API,Retrieve Google Drive activity
+Google Workspace,Drive Picker,Drive file selection widget
+Google Workspace,Email Markup,Interactive email using schema.org
+Google Workspace,Gmail API,Enhance Gmail
+Google Workspace,Google Chat API,Conversational bots in chat
+Google Workspace,Google Workspace Add-ons,Extend Google Workspace apps
+Google Workspace,Google Workspace Marketplace,Storefront for integrated applications
+Google Workspace,People API,Manage user's Contacts
+Google Workspace,Sheets API,Read and write spreadsheets
+Google Workspace,Slides API,Create and edit presentations
+Google Workspace,Task API,Search, read & update Tasks
+Google Workspace,Vault API,Manage your organization's eDiscovery
+Google Maps Platform,Directions API,Get directions between locations
+Google Maps Platform,Distance Matrix API,Multi-origin/destination travel times
+Google Maps Platform,Geocoding API,Convert address to/from coordinates
+Google Maps Platform,Geolocation API,Derive location without GPS
+Google Maps Platform,Maps Embed API,Display iframe embedded maps
+Google Maps Platform,Maps JavaScript API,Dynamic web maps
+Google Maps Platform,Maps SDK for Android,Maps for Android apps
+Google Maps Platform,Maps SDK for Unity,Unity SDK for games
+Google Maps Platform,Maps SDK for iOS,Maps for iOS apps
+Google Maps Platform,Maps Static API,Display static map images
+Google Maps Platform,Maps URLs,URL scheme for maps
+Google Maps Platform,Places API,Rest-based Places features
 Google Maps Platform,Places Library, Maps JS APIPlaces features for web
-Google Maps Platform,Places SDK for AndroidPlaces features for Android
-Google Maps Platform,Places SDK for iOSPlaces feature for iOS
-Google Maps Platform,Roads APIConvert coordinates to roads
-Google Maps Platform,Street View ServiceStreet view for JavaScript
-Google Maps Platform,Street View Static APIStatic street view images
-Google Maps Platform,Time Zone APIConvert coordinates to timezone
-Hybrid and Multi-cloud,AnthosEnterprise hybrid/multi-cloud platform
-Hybrid and Multi-cloud,Anthos ClustersHybrid/on-prem GKE
-Hybrid and Multi-cloud,Anthos Config ManagementPolicy and security automation
-Hybrid and Multi-cloud,Anthos Service MeshManaged service mesh (Istio)
-Hybrid and Multi-cloud,Apigee API ManagementAPI management, development, security
-Hybrid and Multi-cloud,Cloud Run for AnthosServerless development for Anthos
-Hybrid and Multi-cloud,Google Cloud Marketplace for AnthosPre-configured containerized apps
-Hybrid and Multi-cloud,Migrate for AnthosMigrate VMs to Kubernetes Engine
-Hybrid and Multi-cloud,Operations suiteMonitoring, logging, troubleshooting
-Hybrid and Multi-cloud,Traffic DirectorService mesh traffic management
+Google Maps Platform,Places SDK for Android,Places features for Android
+Google Maps Platform,Places SDK for iOS,Places feature for iOS
+Google Maps Platform,Roads API,Convert coordinates to roads
+Google Maps Platform,Street View Service,Street view for JavaScript
+Google Maps Platform,Street View Static API,Static street view images
+Google Maps Platform,Time Zone API,Convert coordinates to timezone
+Hybrid and Multi-cloud,Anthos,Enterprise hybrid/multi-cloud platform
+Hybrid and Multi-cloud,Anthos Clusters,Hybrid/on-prem GKE
+Hybrid and Multi-cloud,Anthos Config Management,Policy and security automation
+Hybrid and Multi-cloud,Anthos Service Mesh,Managed service mesh (Istio)
+Hybrid and Multi-cloud,Apigee API Management,API management; development; security
+Hybrid and Multi-cloud,Cloud Run for Anthos,Serverless development for Anthos
+Hybrid and Multi-cloud,Google Cloud Marketplace for Anthos,Pre-configured containerized apps
+Hybrid and Multi-cloud,Migrate for Anthos,Migrate VMs to Kubernetes Engine
+Hybrid and Multi-cloud,Operations suite,Monitoring, logging, troubleshooting
+Hybrid and Multi-cloud,Traffic Director,Service mesh traffic management
 	
 API Platform and Ecosystems,API AnalyticsAPI metrics
 API Platform and Ecosystems,API GatewayFully managed API Gateway
 API Platform and Ecosystems,API MonetizationMonetize APIs
-API Platform and Ecosystems,Apigee API PlatformDevelop, secure, monitor APIs
-API Platform and Ecosystems,Apigee HybridManage hybrid/multi-cloud API environments
-API Platform and Ecosystems,Apigee SenseAPI protection from attacks
-API Platform and Ecosystems,AppSheetNo-code App creation
-API Platform and Ecosystems,Cloud EndpointsCloud API gateway
-API Platform and Ecosystems,Cloud IoT CoreManage devices, ingest data
-API Platform and Ecosystems,Developer PortalAPI management portal
-API Platform and Ecosystems,Google Cloud MarketplacePartner & open source marketplace
-Healthcare,Apigee Healthcare APIxHealthcare system GCP interoperability
-Healthcare,Cloud Healthcare APIHealthcare system GCP interoperability
-Healthcare,Cloud Life SciencesManage, process, transform biomedical-data
-Healthcare,Healthcare Natural Language AIReal-time insights from media-text
-Operations and Monitoring,Cloud LoggingCentralized logging
-Operations and Monitoring,Cloud MonitoringInfrastructure and application monitoring
-Operations and Monitoring,Cloud ProfilerCPU and heap profiling
-Operations and Monitoring,Cloud TraceApp latency insights
-Operations and Monitoring,Error ReportingApp error reporting
-Operations and Monitoring,ProjectProject
-Developer Tools,App Engine PluginsGradle/Maven App Engine plugin
-Developer Tools,Cloud CodeGoogle Cloud IDE extensions
-Developer Tools,Cloud Code for IntelliJIntelliJ Google Cloud tools
-Developer Tools,Cloud Code for VS CodeVS Code Google Cloud tools
-Developer Tools,Cloud SDKGoogle Cloud CLI
-Developer Tools,Cloud ShellBrowser-based terminal/CLI
-Developer Tools,Cloud Tools for EclipseEclipse GCP tools
-Developer Tools,Cloud Tools for PowerShellDeveloper powershell tools
-Developer Tools,Cloud Tools for Visual StudioVisual Studio Google Cloud tools
-Developer Tools,Cloud WorkstationsDeveloper optimized workstation
-Retail,Recommendations AICreate custom recommendations
-Retail,Vision Product SearchVisual search for products
-Retail,Visual Inspection AITrain/deploy models to detect defects
-Migration to Google Cloud,BigQuery Data Transfer ServiceBulk import analytics data
-Migration to Google Cloud,Cloud Data TransferData migration tools/CLI
-Migration to Google Cloud,Cloud Foundation ToolkitInfrastructure as Code templates
-Migration to Google Cloud,KFCloud Foundry to Kubernetes
-Migration to Google Cloud,Migrate for Anthos and GKEMigrate VMs to GKE
-Migration to Google Cloud,Migrate for Compute EngineCompute Engine migration tools
-Migration to Google Cloud,Migrate from Amazon RedshiftMigrate from Redshift to BigQuery
-Migration to Google Cloud,Migrate from TeradataMigrate from Teradata to BigQuery
-Migration to Google Cloud,Storage Transfer ServiceOnline/on-premises data transfer
+API Platform and Ecosystems,Apigee API Platform,Develop; secure; monitor APIs
+API Platform and Ecosystems,Apigee Hybrid,Manage hybrid/multi-cloud API environments
+API Platform and Ecosystems,Apigee Sense,API protection from attacks
+API Platform and Ecosystems,AppSheet,No-code App creation
+API Platform and Ecosystems,Cloud Endpoints,Cloud API gateway
+API Platform and Ecosystems,Cloud IoT Core,Manage devices; ingest data
+API Platform and Ecosystems,Developer Portal,API management portal
+API Platform and Ecosystems,Google Cloud Marketplace,Partner & open source marketplace
+Healthcare,Apigee Healthcare APIx,Healthcare system GCP interoperability
+Healthcare,Cloud Healthcare API,Healthcare system GCP interoperability
+Healthcare,Cloud Life Sciences,Manage; process; transform biomedical-data
+Healthcare,Healthcare Natural Language AI,Real-time insights from media-text
+Operations and Monitoring,Cloud Logging,Centralized logging
+Operations and Monitoring,Cloud Monitoring,Infrastructure and application monitoring
+Operations and Monitoring,Cloud Profiler,CPU and heap profiling
+Operations and Monitoring,Cloud Trace,App latency insights
+Operations and Monitoring,Error Reporting,App error reporting
+Operations and Monitoring,Project,Project
+Developer Tools,App Engine Plugins,Gradle/Maven App Engine plugin
+Developer Tools,Cloud Code,Google Cloud IDE extensions
+Developer Tools,Cloud Code for IntelliJ,IntelliJ Google Cloud tools
+Developer Tools,Cloud Code for VS Code,VS Code Google Cloud tools
+Developer Tools,Cloud SDK,Google Cloud CLI
+Developer Tools,Cloud Shell,Browser-based terminal/CLI
+Developer Tools,Cloud Tools for Eclipse,Eclipse GCP tools
+Developer Tools,Cloud Tools for PowerShell,Developer powershell tools
+Developer Tools,Cloud Tools for Visual Studio,Visual Studio Google Cloud tools
+Developer Tools,Cloud Workstations,Developer optimized workstation
+Retail,Recommendations AI,Create custom recommendations
+Retail,Vision Product Search,Visual search for products
+Retail,Visual Inspection AI,Train/deploy models to detect defects
+Migration to Google Cloud,BigQuery Data Transfer Service,Bulk import analytics data
+Migration to Google Cloud,Cloud Data Transfer,Data migration tools/CLI
+Migration to Google Cloud,Cloud Foundation Toolkit,Infrastructure as Code templates
+Migration to Google Cloud,KF,Cloud Foundry to Kubernetes
+Migration to Google Cloud,Migrate for Anthos and GKE,Migrate VMs to GKE
+Migration to Google Cloud,Migrate for Compute Engine,Compute Engine migration tools
+Migration to Google Cloud,Migrate from Amazon Redshift,Migrate from Redshift to BigQuery
+Migration to Google Cloud,Migrate from Teradata,Migrate from Teradata to BigQuery
+Migration to Google Cloud,Storage Transfer Service,Online/on-premises data transfer
 Migration to Google Cloud,Transfer Appliance,Rentable data transport box
