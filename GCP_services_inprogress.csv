@@ -2,12 +2,12 @@ Compute,App Engine,Managed app platform
 Compute,Bare Metal Solution,Hardware for specialized workloads
 Compute,Batch,Managed batch service
 Compute,Blockchain Node Engine,Fully managed blockchain nodes
-Compute,Cloud FunctionsEvent-driven serverless functions
-Compute,Cloud RunServerless for containerized applications
-Compute,Compute EngineVMs, GPUs, TPUs, Disks
+Compute,Cloud Functions,Event-driven serverless functions
+Compute,Cloud Run,Serverless for containerized applications
+Compute,Compute Engine,VMs; GPUs; TPUs; Disks
 Compute,GKE,Managed Kubernetes / containers
 Compute,Preemptible VMs,Short-lived compute instances
-Compute,Shielded VMsHardened VMs
+Compute,Shielded VMs,Hardened VMs
 Compute,Sole-tenant Nodes,Dedicated physical servers
 Compute,VMware Engine,VMware as a service
 Storage,Backup and DR, ServiceBackup and DR SaaS
@@ -62,62 +62,62 @@ AI_ML,Vertex AI Vizier,Automated hyperparameter tuning
 AI_ML,Vertex AI Workbench,Jupyter-based environment for Data Science
 AI_ML,Vertex Explainable AI,Understand ML model predictions
 AI_ML,Vertex ML Metadata,Artifact; lineage; and execution tracking
-AI_ML,Video Intelligence APIScene-level video annotation
-Networking,Anthos Service MeshService-aware network management
-Networking,AutoscalerMulti-region load distribution/balancing
-Networking,Backend ServiceMulti-region load distribution/balancing
-Networking,Carrier PeeringPeer through a carrier
-Networking,Cloud ArmorDDoS protection and WAF
-Networking,Cloud CDNContent delivery network
-Networking,Cloud DNSProgrammable DNS serving
-Networking,Cloud DomainsRegister, transfer, manager domains
-Networking,Cloud IDSDetects Network based threats
-Networking,Cloud Load BalancingMulti-region load distribution/balancing
-Networking,Cloud NATNetwork address translation service
-Networking,Cloud RouterVPC/on-prem network route exchange (BGP)
-Networking,Cloud VPNVirtual private network connection
-Networking,Cross-Cloud InterconnectDedicated high-bandwidth multicloud connection
-Networking,Cross-Cloud InterconnectDedicated high-bandwidth multicloud connection
-Networking,Dedicated InterconnectDedicated private network connection
-Networking,Direct PeeringPeer with Google Cloud
-Networking,External HTTP Load BalancerMulti-region load distribution/balancing
-Networking,External TCP Load BalancerMulti-region load distribution/balancing
-Networking,Internal HTTP Load BalancerMulti-region load distribution/balancing
-Networking,Internal TCP Load BalancerMulti-region load distribution/balancing
-Networking,Managed Instance GroupMulti-region load distribution/balancing
-Networking,Media CDNCDN for streaming & videos
-Networking,Network Connectivity CenterConnect VPC & On-prem
-Networking,Network Intelligence CenterNetwork monitoring and topology
-Networking,Network Service TiersPrice vs performance tiering
-Networking,Network TelemetryNetwork telemetry service
-Networking,Packet MirroringMonitor/analyze instance traffic
-Networking,Partner InterconnectConnect on-prem network to VPC
-Networking,Private Service ConnectPrivately connect services across VPCs
-Networking,Service DirectoryCentrally publish/discover/connect services
-Networking,SubnetSubnetwork
-Networking,Traffic DirectorService mesh traffic management
-Networking,Transcoder APIOptimized files for delivery
-Networking,VPC Service ControlsSecurity perimeters for API-based services
-Networking,Virtual Private CloudSoftware defined networking
-DevOps CI/CD,Artifact RegistryUniversal package manager
-DevOps CI/CD,Cloud BuildDevOps Automation Platform
-DevOps CI/CD,Cloud DeployContinuous Delivery for GKE
-DevOps CI/CD,Cloud Source RepositoriesHosted private git repos
-DevOps CI/CD,Container AnalysisAutomated security scanning
-DevOps CI/CD,Container RegistryPrivate container registry/storage
-Identity and Security,Access Context ManagerFine-grained, attribute based access-control
-Identity and Security,Access TransparencyAudit cloud provider access
-Identity and Security,Assured WorkloadsWorkload compliance controls
-Identity and Security,BeyondCorp EnterpriseZero trust secure access
-Identity and Security,Binary AuthorizationKubernetes deploy-time security
-Identity and Security,Certificate Authority ServiceManaged private CAs
-Identity and Security,ChronicleFind threats from security telemetry
-Identity and Security,Cloud Asset InventoryAll assets, one place
-Identity and Security,Cloud Audit LogsAudit trails
-Identity and Security,Cloud Data Loss PreventionClassify and redact sensitive data
-Identity and Security,Cloud EKMExternal keys you control/manage
-Identity and Security,Cloud HSMHardware security module service
-Identity and Security,Cloud IAMResource access control
+AI_ML,Video Intelligence API,Scene-level video annotation
+Networking,Anthos Service Mesh,Service-aware network management
+Networking,Autoscaler,Multi-region load distribution/balancing
+Networking,Backend Service,Multi-region load distribution/balancing
+Networking,Carrier Peering,Peer through a carrier
+Networking,Cloud Armor,DDoS protection and WAF
+Networking,Cloud CDN,Content delivery network
+Networking,Cloud DNS,Programmable DNS serving
+Networking,Cloud Domains,Register; transfer; manager domains
+Networking,Cloud IDS,Detects Network based threats
+Networking,Cloud Load Balancing,Multi-region load distribution/balancing
+Networking,Cloud NAT,Network address translation service
+Networking,Cloud Router,VPC/on-prem network route exchange (BGP)
+Networking,Cloud VPN,Virtual private network connection
+Networking,Cross-Cloud Interconnect,Dedicated high-bandwidth multicloud connection
+Networking,Cross-Cloud Interconnect,Dedicated high-bandwidth multicloud connection
+Networking,Dedicated Interconnect,Dedicated private network connection
+Networking,Direct Peering,Peer with Google Cloud
+Networking,External HTTP Load Balancer,Multi-region load distribution/balancing
+Networking,External TCP Load Balancer,Multi-region load distribution/balancing
+Networking,Internal HTTP Load Balancer,Multi-region load distribution/balancing
+Networking,Internal TCP Load Balancer,Multi-region load distribution/balancing
+Networking,Managed Instance Group,Multi-region load distribution/balancing
+Networking,Media CDN,CDN for streaming & videos
+Networking,Network Connectivity Center,Connect VPC & On-prem
+Networking,Network Intelligence Center,Network monitoring and topology
+Networking,Network Service Tiers,Price vs performance tiering
+Networking,Network Telemetry,Network telemetry service
+Networking,Packet Mirroring,Monitor/analyze instance traffic
+Networking,Partner Interconnect,Connect on-prem network to VPC
+Networking,Private Service Connect,Privately connect services across VPCs
+Networking,Service Directory,Centrally publish/discover/connect services
+Networking,Subnet,Subnetwork
+Networking,Traffic Director,Service mesh traffic management
+Networking,Transcoder API,Optimized files for delivery
+Networking,VPC Service Controls,Security perimeters for API-based services
+Networking,Virtual Private Cloud,Software defined networking
+DevOps CI/CD,Artifact Registry,Universal package manager
+DevOps CI/CD,Cloud Build,DevOps Automation Platform
+DevOps CI/CD,Cloud Deploy,Continuous Delivery for GKE
+DevOps CI/CD,Cloud Source Repositories,Hosted private git repos
+DevOps CI/CD,Container Analysis,Automated security scanning
+DevOps CI/CD,Container Registry,Private container registry/storage
+Identity and Security,Access Context Manager,Fine-grained; attribute based access-control
+Identity and Security,Access Transparency,Audit cloud provider access
+Identity and Security,Assured Workloads,Workload compliance controls
+Identity and Security,BeyondCorp Enterprise,Zero trust secure access
+Identity and Security,Binary Authorization,Kubernetes deploy-time security
+Identity and Security,Certificate Authority Service,Managed private CAs
+Identity and Security,Chronicle,Find threats from security telemetry
+Identity and Security,Cloud Asset Inventory,All assets; one place
+Identity and Security,Cloud Audit Logs,Audit trails
+Identity and Security,Cloud Data Loss Prevention,Classify and redact sensitive data
+Identity and Security,Cloud EKM,External keys you control/manage
+Identity and Security,Cloud HSM,Hardware security module service
+Identity and Security,Cloud IAM,Resource access control
 Identity and Security,Cloud Identity,Manage users; devices & apps
 Identity and Security,Cloud Identity-Aware Proxy,Identity-based app access
 Identity and Security,Cloud KMS,Hosted key management service
@@ -193,7 +193,7 @@ Google Workspace,Google Workspace Marketplace,Storefront for integrated applicat
 Google Workspace,People API,Manage user's Contacts
 Google Workspace,Sheets API,Read and write spreadsheets
 Google Workspace,Slides API,Create and edit presentations
-Google Workspace,Task API,Search, read & update Tasks
+Google Workspace,Task API,Search; read & update Tasks
 Google Workspace,Vault API,Manage your organization's eDiscovery
 Google Maps Platform,Directions API,Get directions between locations
 Google Maps Platform,Distance Matrix API,Multi-origin/destination travel times
@@ -222,12 +222,11 @@ Hybrid and Multi-cloud,Apigee API Management,API management; development; securi
 Hybrid and Multi-cloud,Cloud Run for Anthos,Serverless development for Anthos
 Hybrid and Multi-cloud,Google Cloud Marketplace for Anthos,Pre-configured containerized apps
 Hybrid and Multi-cloud,Migrate for Anthos,Migrate VMs to Kubernetes Engine
-Hybrid and Multi-cloud,Operations suite,Monitoring, logging, troubleshooting
+Hybrid and Multi-cloud,Operations suite,Monitoring; logging; troubleshooting
 Hybrid and Multi-cloud,Traffic Director,Service mesh traffic management
-	
-API Platform and Ecosystems,API AnalyticsAPI metrics
-API Platform and Ecosystems,API GatewayFully managed API Gateway
-API Platform and Ecosystems,API MonetizationMonetize APIs
+API Platform and Ecosystems,API Analytics,API metrics
+API Platform and Ecosystems,API Gateway,Fully managed API Gateway
+API Platform and Ecosystems,API Monetization,Monetize APIs
 API Platform and Ecosystems,Apigee API Platform,Develop; secure; monitor APIs
 API Platform and Ecosystems,Apigee Hybrid,Manage hybrid/multi-cloud API environments
 API Platform and Ecosystems,Apigee Sense,API protection from attacks
